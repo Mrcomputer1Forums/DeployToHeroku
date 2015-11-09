@@ -1,0 +1,1 @@
+web: gunicorn Mrcomputer1Forums.wsgi --log-file -
