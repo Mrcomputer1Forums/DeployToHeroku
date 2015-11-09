@@ -4,5 +4,8 @@
   "keywords": [],
   "website": "https://mrcomputer1forums.github.io",
   "repository": "https://github.com/Mrcomputer1Forums/DeployToHeroku",
-  "success_url": "/"
+  "success_url": "/",
+  "scripts": {
+    "postdeploy": "python manage.py migrate"
+  }
 }
