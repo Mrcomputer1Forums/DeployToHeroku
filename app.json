@@ -4,6 +4,5 @@
   "keywords": [],
   "website": "https://mrcomputer1forums.github.io",
   "repository": "https://github.com/Mrcomputer1Forums/DeployToHeroku",
-  "logo": "",
-  "success_url": "/",
+  "success_url": "/"
 }
